@@ -8,7 +8,7 @@ Sharid Loáiciga
 
 ## Practical Info
 
-Tuesdays 16:00 - 18:00
+Tuesdays 16:00 - 18:00  
 Runs from 21.04.2020 to 21.07.2020  
 (Room 2.14.0.32) ONLINE until further notice  
 
@@ -29,13 +29,17 @@ Runs from 21.04.2020 to 21.07.2020
 | 13  |   | QA  |   |   |
 | 14  |   | Presentations (TBD)  |   |   |
 
+
 ## Reading material 
 
-Goldberg, Yoav (2017).  Neural Network Methods in Natural Language Processing. Morgan & Claypool Publishers
+**\[YG\]** Goldberg, Yoav (2017).  Neural Network Methods in Natural Language Processing. Morgan & Claypool Publishers.
 
-Moore, Will H. & David A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton University Press
+**\[M&S\]** Moore, Will H. & David A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton University Press.
 
-Rao, Delip (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly
+**\[DR\]** Rao, Delip (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  
+
+All the books are available through the UP network. 
+
 
 ## Examination  
 
