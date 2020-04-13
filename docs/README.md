@@ -12,7 +12,7 @@ Tuesdays 16:00 - 18:00
 Runs from 21.04.2020 to 21.07.2020  
 (Room 2.14.0.32) ONLINE until further notice  
 
-| Session  | Date  | Content  | Readings  | Due |
+| Session  | Date  | Content  | Preparation Material  | Due |
 |---|---|---|---|---|
 | 1  | 21.04.2020  | Introduction, supervised vs unsupervised learning  |   |   |
 | 2 |   | Revision of linear algebra & statistics  |   |   |
