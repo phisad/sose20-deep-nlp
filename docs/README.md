@@ -23,7 +23,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 7  |   | NN training  |   |   |
 | 8  |   | Word embeddings  |   |   |
 | 9  |   | Recurrent neural networks (RNNs)  |   |   |
-| 10  |   | Special RNNs (Long-short-term-memory networks, aka LSTMS)  |   |   |
+| 10  |   | Special RNNs (Long-short term memory networks, aka LSTMS)  |   |   |
 | 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |
 | 12  |   | Convolutional NNs (CNNs)  |   |   |
 | 13  |   | QA  |   |   |
