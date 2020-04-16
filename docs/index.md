@@ -1,4 +1,3 @@
-# DeepNLP  
 
 Introduction to deep learning techniques for NLP. The goals of this course are:  
 
@@ -47,7 +46,7 @@ Runs from 21.04.2020 to 21.07.2020
 
 **\[DR\]** Rao, Delip (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  
 
-📚📚📚 **All the books are available through the UP network.**  📚📚📚
+⭐️**All the books are available through the UP network.**
 
 ## Examination  
 
