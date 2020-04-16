@@ -2,4 +2,4 @@
 
 Deep Learning for NLP 
 
-<https://compling-potsdam.github.io/sose20-deep-nlp/>  
+[Website](https://compling-potsdam.github.io/sose20-deep-nlp/)  
