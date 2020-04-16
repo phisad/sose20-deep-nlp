@@ -15,8 +15,8 @@ Runs from 21.04.2020 to 21.07.2020
 | Session  | Date  | Content  | Preparation Material  | Due |
 |---|---|---|---|---|
 | 1  | 21.04.2020  | Introduction  |   |   |
-| 2 |   | Revision of linear algebra & statistics  |   |   |
-| 3  |   | Pytorch & neural networks basics i (NNs)   |   |   |
+| 2 |   | Revision of linear algebra & statistics ; Pytorch basics |   |   |
+| 3  |   | Neural networks basics i (NNs)   |   |   |
 | 4  |   | NNs ii  |   |   |
 | 5  |   | Feed forward networks (FFN)  |   |   |
 | 6  |   |   |   |   |
