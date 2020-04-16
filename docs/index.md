@@ -2,6 +2,13 @@
 
 Introduction to deep learning techniques for NLP  
 
+## Goals of this course
+
+To understand the structure of neural networks
+To be familiar with central concepts in deep learning for NLP
+To know the most common deep learning models applied in NLP
+To implement your own deep learning models using the pytorch library
+
 ## Contact Info
 Sharid Loáiciga  
 <loaicigasanchez@uni-potsdam.de>  
@@ -12,22 +19,22 @@ Tuesdays 16:00 - 18:00
 Runs from 21.04.2020 to 21.07.2020  
 (Room 2.14.0.32) ONLINE until further notice  
 
-| Session  | Date  | Content  | Preparation Material  | Due |
-|---|---|---|---|---|
-| 1  | 21.04.2020  | Introduction  |   |   |
-| 2 |   | Revision of linear algebra & statistics ; Pytorch basics |   |   |
-| 3  |   | Neural networks basics i (NNs)   |   |   |
-| 4  |   | NNs ii  |   |   |
-| 5  |   | Feed forward networks (FFN)  |   |   |
-| 6  |   |   |   |   |
-| 7  |   | NN training  |   |   |
-| 8  |   | Word embeddings  |   |   |
-| 9  |   | Recurrent neural networks (RNNs)  |   |   |
-| 10  |   | Special RNNs (Long-short term memory networks, aka LSTMS)  |   |   |
-| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |
-| 12  |   | Convolutional NNs (CNNs)  |   |   |
-| 13  |   | QA  |   |   |
-| 14  |   | Presentations (TBD)  |   |   |
+| Session  | Date  | Content  | Preparation Material  | Release | Due | 
+|---|---|---|---|---|---|
+| 1  | 21.04.2020  | Introduction  |   |   | |
+| 2 |   | Revision of linear algebra & statistics ; Pytorch basics |   |   |   |
+| 3  |   | Neural networks basics (NNs)   |   |   |   |
+| 4  |   | Feed forward networks (FFN)  |   |   |   |
+| 5  |   |  Word embeddings  |   |   |   |
+| 6  |   |  NNs training  |   |   |   |
+| 7  |   |  |   |   |   |
+| 8  |   |  Recurrent neural networks (RNNs)  |   |   |   
+| 9  |   |  |   |   |   |
+| 10  |   | Special RNNs (Long-short term memory networks, aka LSTMS)  |   |   |   |
+| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |   |
+| 12  |   | Convolutional NNs (CNNs)  |   |   |   |
+| 13  |   | QA  |   |   |   |
+| 14  |   | Project proposal presentations  |   |   |   |
 
 
 ## Reading material 
@@ -45,7 +52,7 @@ All the books are available through the UP network.
 
 The following aspects are needed to pass the course:  
 
- - Hand in a reaction paragraph for each group of preparation material assigned
- - Hands-on assignments   
- - Project development & report (details TBD)
+ - Hand in a reaction paragraph for each pack of preparation material assigned per week
+ - Hand in 3 assignments completed
+ - Complete project work: presentation of a project proposal and hand in written report (details TBD)
 
