@@ -1,6 +1,6 @@
-# Deep Learning for Natural Language Processing   
+# DeepNLP  
 
-Introduction to deep learning techniques for NLP. The goals are:  
+Introduction to deep learning techniques for NLP. The goals of this course are:  
 
 - To understand the structure of neural networks  
 - To be familiar with central concepts in deep learning for NLP  
@@ -47,7 +47,7 @@ Runs from 21.04.2020 to 21.07.2020
 
 **\[DR\]** Rao, Delip (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  
 
-All the books are available through the UP network. 
+**All the books are available through the UP network.** 
 
 
 ## Examination  
