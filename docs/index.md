@@ -1,13 +1,15 @@
 # Deep Learning for Natural Language Processing   
 
-Introduction to deep learning techniques for NLP  
+Introduction to deep learning techniques for NLP. The goals are:  
 
-## Goals of this course
+- To understand the structure of neural networks  
+- To be familiar with central concepts in deep learning for NLP  
+- To know the most common deep learning models applied in NLP  
+- To implement your own deep learning models using the pytorch library  
 
-To understand the structure of neural networks
-To be familiar with central concepts in deep learning for NLP
-To know the most common deep learning models applied in NLP
-To implement your own deep learning models using the pytorch library
+## News: 
+
+No news is good news!
 
 ## Contact Info
 Sharid Loáiciga  
