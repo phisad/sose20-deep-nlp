@@ -10,7 +10,11 @@
   based on the written group report. This default can be overwritten by the
   group contract.
   
-## Project Proposal \& Presentation Guidelines
+## Project Proposal Guidelines
+
+- TBD
+
+### Presentation
 
 - TBD
 
