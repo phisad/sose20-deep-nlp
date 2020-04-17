@@ -14,10 +14,6 @@
 
 - TBD
 
-### Presentation
-
-- TBD
-
 ## Written Report Guidelines
 
 - Please use provided LaTeX template.  
