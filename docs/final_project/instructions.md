@@ -1,7 +1,5 @@
 # Final project
 
-## Conditions
-
 - The project can be done in groups of 1-3 people.  
 - You need to hand in a group contract establishing the team members and
   evaluation conditions (if different from default).
