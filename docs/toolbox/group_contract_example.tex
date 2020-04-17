@@ -1,0 +1,102 @@
+\documentclass[11pt]{article}
+
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}%%% use with PDFLaTeX
+\usepackage[utf8]{inputenc}
+\usepackage[top=25mm,left=25mm,right=25mm,bottom=20mm,headsep=15pt,footskip=15pt,a4paper]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\usepackage[english]{babel}
+
+
+\usepackage{color}
+%\usepackage{times}
+%\usepackage{tikz-dependency}
+%\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage[parfill]{parskip} % no indentation
+
+
+%\usepackage{helvet}
+\usepackage{color}
+
+
+% Uppsala Red
+% \definecolor{UUred}{RGB}{153,0,0}
+% University of Helsinki
+% \definecolor{HumHelsinki}{RGB}{58, 111, 196} 
+% University of Gothenburg
+% \definecolor{GotUniBlue}{RGB}{0, 75, 137}
+
+
+\usepackage[backend=biber,style=authoryear,maxbibnames=99]{biblatex}
+\addbibresource{./custom-biblio.bib}
+\setlength\bibitemsep{0.5\baselineskip}
+
+
+
+\makeatletter         
+\def\@maketitle{   % custom maketitle 
+\begin{center}%
+{\bfseries \@title}%
+{\bfseries \@author}%
+\end{center}%
+\smallskip \hrule \bigskip }
+
+%%% Fill in your name here!
+\title{{\LARGE Readings for Coreference Resolution PM}\\[1.5mm]{\large 12
+credits}\\[1.5mm]{\large Teacher: Sharid Loáiciga}}
+\date{} % delete this line to display the current date
+
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+
+
+
+
+\begin{center}
+---------------------------------------------------------------------------------------------------------------
+\vspace{0.5cm}
+
+{\Large \textbf{Team Contract}}
+\end{center}
+
+These are the terms of group conduct and cooperation that we agree on as a team. 
+
+\vspace{1cm}
+
+\textbf{Participation:} We agree to ... 
+\vspace{2cm}
+
+\textbf{Communication:} We agree to ...
+\vspace{2cm}
+
+\textbf{Meetings:} We agree to ...
+\vspace{2cm}
+
+\textbf{Conduct:} We agree to ...
+\vspace{2cm}
+
+\textbf{Conflict (*mandatory):} We agree to ...
+\vspace{2cm}
+
+\centering
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{Team member name} & \textbf{Team member signature} \\
+\hline
+& \\
+& \\
+\hline
+& \\
+& \\
+\hline
+& \\
+& \\
+\hline
+\end{tabular}
+
+
+
+\end{document}

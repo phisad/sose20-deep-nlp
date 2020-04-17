@@ -56,3 +56,7 @@ The following aspects are needed to pass the course:
  - Hand in 3 assignments completed
  - Complete project work: presentation of a project proposal and hand in written report (details TBD)
 
+**All hand in deadlines refer to the day at 23h00**
+
+### Late policy 
+
