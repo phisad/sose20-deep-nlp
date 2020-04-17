@@ -2,8 +2,7 @@
 
 ## Conditions
 
-- The project can be done in groups of up to 3 people, individual projects are
-also ok.   
+- The project can be done in groups of 1-3 people.  
 - You need to hand in a group contract establishing the team members and
   evaluation conditions (if different from default).
 - A list of possible topics will be provided, you can also choose your own topic
