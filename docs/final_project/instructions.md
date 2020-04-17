@@ -11,8 +11,12 @@
 - By default, there will be a joint equal grade for all members of the group,
   based on the written group report. This default can be overwritten by the
   group contract.
+  
+## Project Proposal \& Presentation Guidelines
 
-## Guidelines
+- TBD
+
+## Written Report Guidelines
 
 - Please use provided LaTeX template.  
 - Length of 10 pages, references included.
