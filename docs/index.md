@@ -10,29 +10,28 @@ Introduction to deep learning techniques for NLP. The goals of this course are:
 
 No news is good news!
 
-## Contact Info
-Sharid Loáiciga  
-<loaicigasanchez@uni-potsdam.de>  
 
 ## Practical Info
+
+Sharid Loáiciga  
+<loaicigasanchez@uni-potsdam.de>  
 
 Tuesdays 4:15pm - 6:00pm  
 Runs from 21.04.2020 to 21.07.2020  
 (Room 2.14.0.32) ONLINE until further notice  
 
-| Session  | Date  | Content  | Preparation Material  | Release | Due | 
+| Session  | Date  | Content  | Preparation Material  | Release | Due    | 
 |---|---|---|---|---|---|
 | 1  | 21.04.2020  | Introduction  |          |       |        |
 | 2  |             | Revision of linear algebra & statistics ; Pytorch basics |   |   |   |
-| 3  |             | Neural networks basics (NNs)   |   | Assignment 1  |   |
+| 3  |             | Neural networks basics (NNs)   |   | A1  |   |
 | 4  |             | Feed forward networks (FFN)    |   |               |   |
-| 5  |             | Word embeddings                |   | Assignment 2  | Assignment 1  |
+| 5  |             | Word embeddings                |   | A2  | A1  |
 | 6  |             | NNs training                   |   |               |   |
-| 7  |             |                                |   |               | Assignment 2   |
-| 8  |             | Recurrent neural networks (RNNs)   | Assignment 3  |   |
+| 7  |             |                                |   |               | A2   |
+| 8  |             | Recurrent neural networks (RNNs)   |   | A3  | | 
 | 9  |             |  |   |   |   |
-| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)
-|   |  |Assignment 3; group contracts  |
+| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |A3 + group contracts  |
 | 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |   |
 | 12  |   | Convolutional NNs (CNNs)  |   |   | Pick project topic   |
 | 13  |   | QA  |   |   |   |
@@ -54,7 +53,7 @@ Runs from 21.04.2020 to 21.07.2020
 The following aspects are needed to pass the course:  
 
  - Hand in a reaction paragraph for each pack of preparation material assigned per week
- - Hand in 3 assignments completed
+ - Hand in 3 assignments completed (A1, A2, A3)
  - Complete project work: presentation of a project proposal and hand in written report (details TBD)
 
 **All hand in deadlines refer to the day at 11:00pm**
