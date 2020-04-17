@@ -54,7 +54,7 @@ The following aspects are needed to pass the course:
 
  - Hand in a reaction paragraph for each pack of preparation material assigned per week
  - Hand in 3 assignments completed (A1, A2, A3)
- - Complete project work: (presentation of a project proposal and hand in written report)[https://compling-potsdam.github.io/sose20-deep-nlp/final_project/instructions]. 
+ - Complete project work: [presentation of a project proposal and hand in written report](https://compling-potsdam.github.io/sose20-deep-nlp/final_project/instructions). 
 
 **All hand in deadlines refer to the day at 11:00pm**
 
