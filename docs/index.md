@@ -36,7 +36,7 @@ A Zoom link will be sent two hours before class
 | 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |  rp |
 | 12  |   | Convolutional NNs (CNNs)  |   |   |rp + Pick project topic   |
 | 13  |   | QA  |   |   |   |
-| 14  |   | Project proposal presentations  |   |   |  rp |
+| 14  |   | Project proposal presentations  |   |   |   |
 
 
 ## Reading material 
