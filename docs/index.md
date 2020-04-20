@@ -18,24 +18,25 @@ Sharid Loáiciga
 
 Tuesdays 4:15pm - 6:00pm  
 Runs from 21.04.2020 to 21.07.2020  
-(Room 2.14.0.32) ONLINE until further notice  
+(Room 2.14.0.32) ONLINE until further notice 
+A Zoom link will be sent two hours before class.
 
 | Session  | Date  | Content  | Preparation Material  | Release | Due    | 
 |---|---|---|---|---|---|
-| 1  | 21.04.2020  | Introduction  |          |       |        |
-| 2  |             | Revision of linear algebra & statistics ; Pytorch basics |   |   |   |
-| 3  |             | Neural networks basics (NNs)   |   | A1  |   |
-| 4  |             | Feed forward networks (FFN)    |   |               |   |
-| 5  |             | Word embeddings                |   | A2  | A1  |
-| 6  |             | NNs training                   |   |               |   |
-| 7  |             |                                |   |               | A2   |
-| 8  |             | Recurrent neural networks (RNNs)   |   | A3  | | 
+| 1  | 21.04.2020  | Introduction  |   YG ch.2       |       |  reaction paragraph not required    |
+| 2  |             | Revision of linear algebra & statistics ; Pytorch basics |   |   | rp  |
+| 3  |             | Neural networks basics (NNs)   |   | A1  | rp  |
+| 4  |             | Feed forward networks (FFN)    |   |               | rp  |
+| 5  |             | Word embeddings                |   | A2  |rp + A1 |
+| 6  |             | NNs training                   |   |               |  rp |
+| 7  |             |                                |   |               | rp + A2   |
+| 8  |             | Recurrent neural networks (RNNs)   |   | A3  | rp | 
 | 9  |             |  |   |   |   |
-| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |A3 + group contracts  |
-| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |   |
-| 12  |   | Convolutional NNs (CNNs)  |   |   | Pick project topic   |
+| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |rp + A3 + group contracts  |
+| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |  rp |
+| 12  |   | Convolutional NNs (CNNs)  |   |   |rp + Pick project topic   |
 | 13  |   | QA  |   |   |   |
-| 14  |   | Project proposal presentations  |   |   |   |
+| 14  |   | Project proposal presentations  |   |   |  rp |
 
 
 ## Reading material 
