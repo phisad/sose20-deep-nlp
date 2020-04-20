@@ -24,7 +24,7 @@ A Zoom link will be sent two hours before class
 | Session  | Date  | Content  | Preparation Material  | Release | Due    | 
 |---|---|---|---|---|---|
 | 1  | 21.04.2020  | Introduction  |   YG ch.2       |       |  reaction paragraph not required    |
-| 2  | 28.04.2020  | Revision of linear algebra & statistics ; Pytorch basics | YG ch2; M&S chs 2,3,12  | A1?  | rp + set up |
+| 2  | 28.04.2020  | Revision of linear algebra & statistics ; Pytorch basics | YG ch.2; M&S chs. 2,3,12  | A1?  | rp + set up |
 | 3  |             | Neural networks basics (NNs)   |   | A1  | rp  |
 | 4  |             | Feed forward networks (FFN)    |   |               | rp  |
 | 5  |             | Word embeddings                |   | A2  |rp + A1 |
