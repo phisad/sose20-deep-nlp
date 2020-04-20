@@ -29,7 +29,7 @@ A Zoom link will be sent two hours before class
 | 4  |             | Feed forward networks (FFN)    |   |               | rp  |
 | 5  |             | Word embeddings                |   | A2  |rp + A1 |
 | 6  |             | NNs training                   |   |               |  rp |
-| 7  |             |                                |   |               | rp + A2   |
+| 7  |             |                                |   |               |  A2   |
 | 8  |             | Recurrent neural networks (RNNs)   |   | A3  | rp | 
 | 9  |             |  |   |   |   |
 | 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |rp + A3 + group contracts  |
