@@ -45,7 +45,7 @@ A Zoom link will be sent two hours before class
 
 **\[M&S\]** Moore, Will H. & David A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton University Press.
 
-**\[DR\]** Rao, Delip & Brian McMahan (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  
+**\[DR\]** Rao, Delip & Brian McMahan (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  IMPORTANT: please choose 'read online' in order not to block the book. 
 
 ⭐️**All the books are available through the UP network.**
 
