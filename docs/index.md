@@ -8,8 +8,8 @@ Introduction to deep learning techniques for NLP. The goals of this course are:
 
 ## News: 
 
-No news is good news!
-
+- Moodle page up and running  
+- Slides and other materials available [here](https://github.com/compling-potsdam/sose20-deep-nlp/tree/master/docs/materials) after each session 
 
 ## Practical Info
 
@@ -19,7 +19,7 @@ Sharid Loáiciga
 Tuesdays 4:15pm - 6:00pm  
 Runs from 21.04.2020 to 21.07.2020  
 (Room 2.14.0.32) ONLINE until further notice  
-A Zoom link will be sent two hours before class  
+
 
 | Session  | Date  | Content  | Preparation Material  | Release | Due    | 
 |---|---|---|---|---|---|
