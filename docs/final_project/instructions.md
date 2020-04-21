@@ -1,9 +1,6 @@
 # Final project
 
-## Conditions
-
-- The project can be done in groups of up to 3 people, individual projects are
-also ok.   
+- The project can be done in groups of 1-3 people.  
 - You need to hand in a group contract establishing the team members and
   evaluation conditions (if different from default).
 - A list of possible topics will be provided, you can also choose your own topic
@@ -12,8 +9,12 @@ also ok.
 - By default, there will be a joint equal grade for all members of the group,
   based on the written group report. This default can be overwritten by the
   group contract.
+  
+## Project Proposal Guidelines
 
-## Guidelines
+- TBD
+
+## Written Report Guidelines
 
 - Please use provided LaTeX template.  
 - Length of 10 pages, references included.
