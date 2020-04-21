@@ -43,7 +43,8 @@ A Zoom link will be sent two hours before class
 
 **\[YG\]** Goldberg, Yoav (2017).  Neural Network Methods in Natural Language Processing. Morgan & Claypool Publishers.
 
-**\[M&S\]** Moore, Will H. & David A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton University Press.
+**\[M&S\]** Moore, Will H. & David A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton University Press.  
+[Videos here](https://www.youtube.com/channel/UCrA2SLUKnV6yjdgIfDwFeGg/playlists).
 
 **\[DR\]** Rao, Delip & Brian McMahan (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  IMPORTANT: please choose 'read online' in order not to block the book. 
 
