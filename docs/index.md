@@ -25,8 +25,8 @@ Runs from 21.04.2020 to 21.07.2020
 |---|---|---|---|---|---|
 | 1  | 21.04.2020  | Introduction  |   YG ch.2       |       |  reaction paragraph not required    |
 | 2  | 28.04.2020  | Revision of linear algebra & statistics ; Pytorch basics | YG ch.2; M&S chs. 2,3,12  | A1  | rp + set up |
-| 3  |             | Neural networks basics (NNs)   |   |   | rp  |
-| 4  |             | Feed forward networks (FFN)    |   |               | rp + A1  |
+| 3  |             | Feed forward networks (FFNs)  1  |   |   | rp  |
+| 4  |             | FFNs  2  |   |               | rp + A1  |
 | 5  |             | Word embeddings                |   | A2  |rp  |
 | 6  |             | NNs training                   |   |               |  rp |
 | 7  |             |                                |   |               |  A2   |
