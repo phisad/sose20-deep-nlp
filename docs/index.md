@@ -48,6 +48,8 @@ Runs from 21.04.2020 to 21.07.2020
 
 **\[DR\]** Rao, Delip & Brian McMahan (2019). Natural language processing with PyTorch: build intelligent language applications using deep learning. Beijing: O'Reilly.  IMPORTANT: please choose 'read online' in order not to block the book. 
 
+All jupyter notebooks used in this course come from the companion repository by Rao & McMahan.
+
 ⭐️**All the books are available through the UP network.**
 
 ## Examination  
