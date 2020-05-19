@@ -29,12 +29,12 @@ Runs from 21.04.2020 to 21.07.2020
 | 4  | 12.05.2020 | QA + Word embeddings 1 | [video](https://www.youtube.com/watch?v=kEMJRjEdNzM); YG ch.8  |  | rp + A1  |
 | 5  | 19.05.2020 |   Word embeddings 2 + intro to projects   | stanford [a1](http://web.stanford.edu/class/cs224n/assignments/a1.zip)   | A2  |---|
 | 6  |             | NNs training                   | YG ch.5  |               |  rp |
-| 7  |             |                                |   |               |  A2   |
-| 8  |             | Recurrent neural networks (RNNs)   |   | A3  | rp | 
+| 7  |             | Recurrent neural networks (RNNs)   |   |               |  A2   |
+| 8  |             |    |   | A3  | rp | 
 | 9  |             |  |   |   |   |
-| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |rp + A3 + group contracts  |
-| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |  rp |
-| 12  |   | Convolutional NNs (CNNs)  |   |   |rp + Pick project topic   |
+| 10  |            | Special RNNs (Long-short term memory networks, aka LSTMS)|   |  |rp + A3  |
+| 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |  rp + group contracts + pick project topic |
+| 12  |   | Convolutional NNs (CNNs)  |   |   |rp    |
 | 13  |   | QA  |   |   | any late assignments  |
 | 14  |   | Project proposal presentations  |   |   |   |
 
