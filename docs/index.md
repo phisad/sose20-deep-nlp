@@ -28,7 +28,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 3  | 05.05.2020  | Feed forward networks (FFNs)   |  YG chs. 3&4; Rao ch3; M&S ch.5; [derivatives](http://cs231n.stanford.edu/handouts/derivatives.pdf); [backpropagation](http://colah.github.io/posts/2015-08-Backprop/) |   | rp  |
 | 4  | 12.05.2020 | QA + Word embeddings 1 | [video](https://www.youtube.com/watch?v=kEMJRjEdNzM); YG ch.8  |  | rp + A1  |
 | 5  | 19.05.2020 |   Word embeddings 2 + intro to projects   | stanford [a1](http://web.stanford.edu/class/cs224n/assignments/a1.zip)   | A2  |---|
-| 6  |             | NNs training                   |   |               |  rp |
+| 6  |             | NNs training                   | YG ch.5  |               |  rp |
 | 7  |             |                                |   |               |  A2   |
 | 8  |             | Recurrent neural networks (RNNs)   |   | A3  | rp | 
 | 9  |             |  |   |   |   |
