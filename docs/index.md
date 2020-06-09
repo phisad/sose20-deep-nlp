@@ -32,7 +32,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 7  |  02.06.2020 | no zoom meeting   | --  |   --   |  A2   |
 | 8  |  09.06.2020 | Recurrent neural networks (RNNs)   | [Intro to LMs](https://web.stanford.edu/~jurafsky/slp3/3.pdf), [ML chapter](http://www.deeplearningbook.org/contents/rnn.html), [blog post1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [blog post2](http://norvig.com/chomsky.html). One book + one blog necessary for rp. | A3  | rp | 
 | 9  |  16.06.2020    | Special RNNs (gradient issues,, stacked, GRUs, LSTMs) |   |   |   |
-| 10  |  More RNNs (seq2seq), attention          | |   |  |rp + A3  |
+| 10  |  | More RNNs (seq2seq), attention          | |     |rp + A3  |
 | 11  |   |  |   |   |  rp + group contracts + pick project topic |
 | 12  |   | Convolutional NNs (CNNs)  |   |   |rp    |
 | 13  |   | QA  |   |   | any late assignments  |
