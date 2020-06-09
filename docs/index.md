@@ -31,7 +31,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 6  |  26.05.2020 | NNs training                   | YG ch.5  |               |  rp |
 | 7  |  02.06.2020 | no zoom meeting   | --  |   --   |  A2   |
 | 8  |  09.06.2020 | Recurrent neural networks (RNNs)   | [Intro to LMs](https://web.stanford.edu/~jurafsky/slp3/3.pdf), [ML chapter](http://www.deeplearningbook.org/contents/rnn.html), [blog post1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [blog post2](http://norvig.com/chomsky.html). One book + one blog necessary for rp. | A3  | rp | 
-| 9  |             | Special RNNs (Long-short term memory networks, aka LSTMS) |   |   |   |
+| 9  |  16.06.2020    | Special RNNs (gradient issues,, stacked, GRUs, LSTMs) |   |   |   |
 | 10  |            | |   |  |rp + A3  |
 | 11  |   | Super special RNNS (conditioned RNNs aka seq2seq models) |   |   |  rp + group contracts + pick project topic |
 | 12  |   | Convolutional NNs (CNNs)  |   |   |rp    |
