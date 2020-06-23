@@ -9,7 +9,7 @@
 - By default, there will be a joint equal grade for all members of the group,
   based on the written group report. This default can be overwritten by the
   group contract.
-- You have three weeks after July 21st to complete your final project. The deadline is Friday 14th, 2020, 11:00pm. 
+- You have ~~three~~ five weeks after July 21st to complete your final project. The deadline is Friday ~~14th~~ August 28th, 2020, 11:00pm. 
   
 ## Project Proposal Guidelines
 
