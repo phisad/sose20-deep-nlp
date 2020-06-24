@@ -33,7 +33,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 8  |  09.06.2020 | Recurrent neural networks (RNNs)   | [Intro to LMs](https://web.stanford.edu/~jurafsky/slp3/3.pdf), [ML chapter](http://www.deeplearningbook.org/contents/rnn.html), [blog post1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [blog post2](http://norvig.com/chomsky.html). One book + one blog necessary for rp. | A3  | rp | 
 | 9  |  16.06.2020    | QA + Special RNNs (gradient issues, stacked, GRUs, LSTMs) |  YG chs. 14 & 15  |   | rp  |
 | 10  | 23.06.2020 | More RNNs (seq2seq), attention          |  [dependency parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA&t=1918s), [machine translation](https://www.youtube.com/watch?v=IxQtK2SjWWM)  |     |rp   |
-| 11  | 30.06.2020  |  |   |   | A3 + rp + group contracts (03.07.20) + pick project topic |
+| 11  | 30.06.2020  |  | Paper discussion  | [Transformer](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf), [What does BERT look at?](https://www-nlp.stanford.edu/pubs/clark2019what.pdf)   | A3 + rp + group contracts (03.07.20) + pick project topic |
 | 12  | 07.07.2020  | Convolutional NNs (CNNs)  |   |   |rp    |
 | 13  | 14.07.2020  | QA  |   |   | any late assignments  |
 | 14  | 21.07.2020  | Project proposal presentations  |   |   |   |
