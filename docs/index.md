@@ -36,7 +36,7 @@ Runs from 21.04.2020 to 21.07.2020
 | 11  | 30.06.2020  |   Paper discussion  | [Transformer](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf), [What does BERT look at?](https://www-nlp.stanford.edu/pubs/clark2019what.pdf) |  | A3 + rp + group contracts (03.07.20) + pick project topic |
 | 12  | 07.07.2020  | Convolutional NNs (CNNs)  |   |   |rp    |
 | 13  | 14.07.2020  | QA  |   |   | any late assignments  |
-| 14  | 21.07.2020  | Project proposal presentations  |   |   |   |
+| 14  | 21.07.2020  | Project proposal presentations  | --  | --  | --  |
 
 
 ## Reading material 
