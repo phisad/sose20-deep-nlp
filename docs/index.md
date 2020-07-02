@@ -8,6 +8,7 @@ Introduction to deep learning techniques for NLP. The goals of this course are:
 
 ## News: 
 
+- Worth checking out: [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 - Moodle page up and running  
 - Slides and other materials available [here](https://github.com/compling-potsdam/sose20-deep-nlp/tree/master/docs/materials) after each session 
 
