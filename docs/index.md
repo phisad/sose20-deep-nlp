@@ -19,7 +19,7 @@ Sharid Loáiciga
 
 Tuesdays 4:15pm - 6:00pm  
 Runs from 21.04.2020 to 21.07.2020  
-(Room 2.14.0.32) ONLINE until further notice  
+~~(Room 2.14.0.32)~~ ONLINE until further notice  
 
 
 | Session  | Date  | Content  | Preparation Material  | Release | Due    | 
