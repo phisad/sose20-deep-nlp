@@ -13,7 +13,7 @@
   
 ## Project Proposal Guidelines
 
-- TBD
+- [PDF](https://github.com/compling-potsdam/sose20-deep-nlp/blob/master/docs/final_project/AM_finalproject_guidelines.pdf)
 
 ## Written Report Guidelines
 
