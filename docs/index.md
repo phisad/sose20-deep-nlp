@@ -36,8 +36,8 @@ Runs from 21.04.2020 to 21.07.2020
 | 10  | 23.06.2020 | More RNNs (seq2seq), attention          |  [dependency parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA&t=1918s), [machine translation](https://www.youtube.com/watch?v=IxQtK2SjWWM)  |     |rp   |
 | 11  | 30.06.2020  |   Paper discussion  | [Transformer](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf), [What does BERT look at?](https://www-nlp.stanford.edu/pubs/clark2019what.pdf) |  | A3 + rp + group contracts (03.07.20) + pick project topic |
 | 12  | 07.07.2020  | Convolutional NNs (CNNs), **Start 4:30pm**  | [blog post](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/), YG ch.13  |   |rp    |
-| 13  | 14.07.2020  | Project proposal presentations  |   |   | any late assignments (first time submission)  |
-| 14  | 21.07.2020  | Project proposal presentations  | --  | --  | --  |
+| 13  | 14.07.2020  | Project proposal presentations  |   |   | ~~any late assignments (first time submission)~~  |
+| 14  | 21.07.2020  | Project proposal presentations  | --  | --  | any late assignments (first time submission)  |
 
 
 ## Reading material 
@@ -65,5 +65,5 @@ The following aspects are needed to pass the course:
 
 ### Late policy for assignments 
 
-There will be a second and final deadline for late submissions on July 14, 11:00pm. If you fail to meet the first deadline for reaction paragraphs or assignments, you may use this second deadline. 
+There will be a second and final deadline for late submissions on July ~~14~~ 21st, 11:00pm. If you fail to meet the first deadline for reaction paragraphs or assignments, you may use this second deadline. 
 
