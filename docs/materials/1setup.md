@@ -1,10 +1,14 @@
 # Setting up PyTorch
 
-Installing PyTorch on your own computer should be quite straightforward. There are instructions here: https://pytorch.org/get-started/locally/
+Installing PyTorch on your own computer should be quite straightforward. 
+The recommended way is to install it using an Anaconda environment. 
+There are instructions here: https://pytorch.org/get-started/locally/
 
-It seems that there may be problems in installing PyTorch on Windows. If you run into problems which are difficult to solve, you can also use Google Colaboratory: https://colab.research.google.com/notebooks/welcome.ipynb It can be set up to install PyTorch. See the instructions below.
+If you run into problems which are difficult to solve, you can also use Google Colaboratory: https://colab.research.google.com/notebooks/welcome.ipynb It can be set up to install PyTorch. See the instructions below.
 
-Another option on Windows is to install PyTorch via Anaconda. Instructions for installation are here: https://conda.io/docs/user-guide/install/windows.html If you would like a 3.x version of Python, you should select it explicitly during Anaconda installation, since the default version is 2.7. Through Anaconda, it is straightforward to install PyTorch and other libraries. You can also start Jupyter Notebooks from its interface.
+You should use a 3.x version of Python since Python 2 is not supported anymore.
+Through Anaconda, it is straightforward to install PyTorch and other libraries. 
+You can also start Jupyter Notebooks from its interface. 
 
 # Setting up Jupyter Notebooks
 
